@@ -11,12 +11,14 @@
 		"body-parser": "~1.0.1",
 		"cors": "2.8.1",
 		"express": "~4.0.0",
-		"mssql": "^6.2.1"
+		"mssql": "^6.2.1",
+		"swagger-jsdoc": "^6.2.8",
+		"swagger-ui-express": "^5.0.0"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.4"
 	},
-  "keywords": [],
+	"keywords": [],
 	"author": "rami",
 	"license": "ISC"
 }
